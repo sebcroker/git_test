@@ -1,0 +1,3 @@
+"hey this is seb"
+"I'm learning how to code with The Odin Project"
+"It's pretty cool"
